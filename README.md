@@ -2,99 +2,122 @@
 
 ### AI/ML Student · Agentic AI · RAG · Software Engineering
 
-I build practical intelligent systems that combine AI, retrieval,
-automation, and software engineering to solve real-world problems.
+I build practical AI systems that combine **reasoning, retrieval, automation,
+and software engineering** to turn ideas into working, testable, and
+verifiable products.
 
 ---
 
 ## 🚀 What I'm Building
 
-🛡️ **KAVACH-AI**
+### 🛡️ [KAVACH-AI](https://github.com/karthikeya26-dev/kavach-ai)
 
-A sovereign, on-premise Agentic AI workbench for confidential
+A sovereign, on-premise Agentic AI workbench designed for confidential
 industrial workflows.
 
-- Agentic AI
-- RAG
+KAVACH-AI brings together:
+
+- Agentic AI and task routing
+- Retrieval-Augmented Generation (RAG)
 - Multimodal document analysis
-- Local LLM inference
-- Code execution
+- Local model inference
+- Deterministic code execution
 - Mathematical verification
 - Evidence-based responses
-- Secure industrial workflows
+- Engineering workflow support
+
+**Focus:** `Agentic AI` · `RAG` · `Multimodal AI` · `Local LLMs` · `Verification`
 
 ---
 
 ## 🧠 Areas of Focus
 
-- Agentic AI & LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning & Deep Learning
-- NLP & Computer Vision
-- Multimodal AI
-- Document Intelligence
-- AI Application Engineering
-- MLOps & Cloud-Native Systems
+- 🤖 Agentic AI & LLM Applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning & Deep Learning
+- 👁️ NLP & Computer Vision
+- 📄 Multimodal & Document Intelligence
+- ⚙️ AI Application Engineering
+- 🧪 AI Evaluation & Verification
+- ☁️ MLOps & Cloud-Native Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-Python · Java · C · C++ · C# · JavaScript · SQL
+`Python` `Java` `C` `C++` `C#` `JavaScript` `SQL`
 
-**AI / ML**
+### AI / ML
 
-Machine Learning · Deep Learning · NLP · RAG · LLMs
-Computer Vision · Pandas · NumPy · scikit-learn
+`Machine Learning` `Deep Learning` `NLP` `RAG` `LLMs`
+`Computer Vision` `Pandas` `NumPy` `scikit-learn`
 
-**Development**
+### Development
 
-React · FastAPI · Flask · Node.js · PostgreSQL
+`React` `FastAPI` `Flask` `Node.js` `PostgreSQL`
 
-**DevOps / Cloud**
+### DevOps / Cloud
 
-Git · GitHub Actions · Docker · Kubernetes · Terraform · AWS
+`Git` `GitHub Actions` `Docker` `Kubernetes` `Terraform` `AWS`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛡️ KAVACH-AI
-Sovereign Agentic AI Workbench for secure industrial workflows.
+### 🛡️ [KAVACH-AI](https://github.com/karthikeya26-dev/kavach-ai)
 
-### 📄 AI Resume Screening System
+Sovereign Agentic AI workbench for confidential industrial workflows.
+
+**Focus:** Agentic AI · RAG · Multimodal AI · Local LLMs · Verification
+
+---
+
+### 📄 [AI Resume Screening System](https://github.com/karthikeya26-dev/resume-screener)
+
 NLP-based resume analysis and job matching using TF-IDF,
-similarity-based ranking, and document processing.
+similarity-based ranking, OCR, and document processing.
 
-### ☁️ Cloud-Native Shop Management
-Full-stack application using modern development and DevOps practices.
+**Focus:** Python · NLP · TF-IDF · Streamlit · MySQL
+
+---
+
+### ☁️ [Cloud-Native Shop Management](https://github.com/karthikeya26-dev/shop-management-app)
+
+Full-stack shop management application built around modern
+software development and DevOps practices.
+
+**Focus:** React · Backend Development · PostgreSQL · Docker · CI/CD
+
+---
 
 ### 🧠 Intelligent Adaptive Learning System
+
 AI-based learning system focused on personalized learning workflows.
+
+**Focus:** Machine Learning · Personalization · AI Applications
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Artificial Intelligence & Machine Learning**
-
+**B.Tech — Artificial Intelligence & Machine Learning**  
 Institute of Aeronautical Engineering, Hyderabad
 
-**Diploma — Computer Science & Engineering**
-
+**Diploma — Computer Science & Engineering**  
 Vemuganti Manohar Rao Institute of Engineering and Technology
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Agentic AI
-- RAG evaluation & retrieval optimization
+- Advanced Agentic AI architectures
+- RAG evaluation and retrieval optimization
 - Local LLM systems
-- MLOps
-- Cloud-native AI
+- Multimodal AI
+- MLOps and deployment
+- Cloud-native AI systems
 - GATE 2027 — Data Science & Artificial Intelligence
 
 ---
